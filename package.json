@@ -1,0 +1,22 @@
+{
+  "name": "alirepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangwei1995/alirepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiangwei1995/alirepo/issues"
+  },
+  "homepage": "https://github.com/jiangwei1995/alirepo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
